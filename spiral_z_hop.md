@@ -109,8 +109,7 @@ For more detailed information read: https://en.wikipedia.org/wiki/Tangent_lines_
 Note: In this implementation, all angle calculations are done with positive angles in the interval [0,2pi] considering a full counterclockwise, circle.
 
 ## Test prints
-
-In the [bigrep wiki](https://wiki.bigrep.com/display/BLAD/Spiral+Z-Hop+Test+Prints+Done) you can find all the test prints that were done for the spiral z-hop.
+TODO test prints with cura.
 
 ## Other Gradual Z-Hop Implementations
 
